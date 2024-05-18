@@ -5,8 +5,6 @@ img{
     height: 300px;
     width: 300px;
     border: 10px solid beige;
-    display: block;
-    margin: auto;
 }
 h1{
     color: white;
@@ -28,7 +26,11 @@ h3{
     font-size: 2rem;
     font-family: "Kalam", cursive;    
 }
-div{
+#fir{
+    display: flex;
+    justify-content: center;
+}
+#sec{
     font-weight: 500;
     font-size: 28px;
     position: absolute;
