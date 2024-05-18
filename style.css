@@ -5,7 +5,8 @@ img{
     height: 300px;
     width: 300px;
     border: 10px solid beige;
-    margin: 0 auto;
+    display: block;
+    margin: auto;
 }
 h1{
     color: white;
@@ -30,5 +31,5 @@ h3{
 div{
     font-weight: 500;
     font-size: 28px;
-    margin: 0 auto;
+    position: absolute;
 }
