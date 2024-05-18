@@ -1,0 +1,34 @@
+html{
+    background-color: #B51B75;
+}
+img{
+    height: 300px;
+    width: 300px;
+    border: 10px solid beige;
+    margin-left: 39%;
+}
+h1{
+    color: white;
+    text-align: center;
+    font-weight: 800;
+    font-size: 3rem;
+    font-family: "Dancing Script", cursive;
+}
+h2{
+    font-family: "Kalam", cursive;
+    font-weight: 700;
+    font-size: 2rem;
+    text-align: center;
+    color: aliceblue;
+}
+h3{
+    color: white;
+    text-align: center;
+    font-size: 2rem;
+    font-family: "Kalam", cursive;    
+}
+div{
+    font-weight: 500;
+    font-size: 28px;
+    margin-left: 43%;
+}
