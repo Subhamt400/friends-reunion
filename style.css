@@ -30,6 +30,8 @@ h3{
     display: flex;
     justify-content: center;
 }
-a{
+#sec{
+    font-size: 2rem;
+    font-weight: 400;
     text-align: center;
 }
